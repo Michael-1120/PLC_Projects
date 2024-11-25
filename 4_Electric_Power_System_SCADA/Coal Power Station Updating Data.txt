@@ -1,0 +1,16 @@
+Boiler Feed Pump Pressure: 200 bar = 3000 psi
+
+High Pressure Turbine Temperature: 550 C
+High Pressure Turbine Pressure: 170 bar
+
+Intermediate Pressure Turbine Temperature: 350 C
+Intermediate Pressure Turbine Pressure: 85 bar
+
+Low Pressure Turbine Temperature: 40 C
+Low Pressure Turbine Pressure: 0.1 bar
+
+Generator Output: 226 Watts / 11kV
+Transformer Output: 400 kV
+
+
+
